@@ -1,19 +1,3 @@
-<!DOCTYPE html>
-<html lang="ja">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Ball in a Box - プライバシーポリシー</title>
-<style>
-  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Hiragino Sans", sans-serif;
-         max-width: 720px; margin: 2em auto; padding: 0 1em; line-height: 1.7; color: #222; }
-  h1 { border-bottom: 2px solid #333; padding-bottom: .3em; }
-  h2 { margin-top: 2em; border-left: 4px solid #333; padding-left: .5em; }
-  .updated { color: #666; font-size: .9em; }
-  .highlight { background: #f0f8ff; padding: 1em; border-left: 4px solid #0066cc; margin: 1em 0; }
-</style>
-</head>
-<body>
 
 <h1>Ball in a Box プライバシーポリシー</h1>
 <p class="updated">最終更新日：2026年4月23日</p>
