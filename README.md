@@ -1,66 +1,102 @@
-# プライバシーポリシー / Privacy Policy
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ball in a Box - プライバシーポリシー</title>
+<style>
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Hiragino Sans", sans-serif;
+         max-width: 720px; margin: 2em auto; padding: 0 1em; line-height: 1.7; color: #222; }
+  h1 { border-bottom: 2px solid #333; padding-bottom: .3em; }
+  h2 { margin-top: 2em; border-left: 4px solid #333; padding-left: .5em; }
+  .updated { color: #666; font-size: .9em; }
+  .highlight { background: #f0f8ff; padding: 1em; border-left: 4px solid #0066cc; margin: 1em 0; }
+</style>
+</head>
+<body>
 
-**対象アプリ / Applies to**: Ball in a Box
-**最終更新日 / Last updated**: 2026-04-21
+<h1>Ball in a Box プライバシーポリシー</h1>
+<p class="updated">最終更新日：2026年4月23日</p>
 
----
+<div class="highlight">
+<strong>このアプリは、ユーザーからいかなる個人情報も収集・保存・送信しません。</strong><br>
+インターネット通信機能を持たず、すべての処理は端末内でのみ行われます。
+</div>
 
-## 日本語
+<h2>1. 収集する情報</h2>
+<p>Ball in a Box（以下「本アプリ」）は、<strong>ユーザーの個人情報、使用状況、位置情報、識別子など、一切のデータを収集しません。</strong></p>
 
-### 1. 収集する情報
-本アプリ「Ball in a Box」（以下「本アプリ」）は、**利用者の個人情報、利用履歴、端末識別子、位置情報、連絡先、その他のいかなる個人データも収集・保存・送信しません**。
+<h2>2. センサーデータの取り扱い</h2>
+<p>本アプリは端末の加速度センサーおよびジャイロセンサーを使用しますが、これらのセンサーデータは以下の通り扱われます：</p>
+<ul>
+  <li>端末内でリアルタイムに処理され、画面上のボールの動きの計算にのみ使用されます</li>
+  <li>どこにも保存されません</li>
+  <li>外部サーバーに送信されません</li>
+  <li>第三者と共有されません</li>
+</ul>
 
-### 2. 使用する権限
-本アプリは端末の以下の機能にアクセスしますが、これらは本アプリ内の物理シミュレーション機能のためだけに使用され、外部に送信されることはありません。
+<h2>3. インターネット通信</h2>
+<p>本アプリはインターネット通信機能を持ちません。Android の権限（INTERNET 権限）を要求しないため、ネットワークに接続することが技術的にできません。</p>
 
-| 権限・センサー | 用途 |
-|---|---|
-| 加速度センサー / ジャイロスコープ | 端末の傾きと動きを検出してボールの物理挙動に反映 |
-| バイブレーション | ボールの衝突時の触覚フィードバック |
+<h2>4. 第三者サービス</h2>
+<p>本アプリは広告、アナリティクス、クラッシュレポート、ソーシャルメディア連携など、いかなる第三者サービスも使用していません。</p>
 
-### 3. 第三者への情報提供
-本アプリは第三者のサービス（広告ネットワーク、解析ツール、クラウドサービス等）を一切使用しておらず、情報の送信・共有は行いません。
+<h2>5. アプリ内課金</h2>
+<p>本アプリにアプリ内課金はありません。</p>
 
-### 4. インターネット通信
-本アプリは通信を行いません。完全にオフラインで動作します。
+<h2>6. お子様のプライバシー（COPPA 準拠）</h2>
+<p>本アプリは、米国児童オンラインプライバシー保護法（COPPA）および Google Play ファミリーポリシーに準拠しています：</p>
+<ul>
+  <li>13歳未満のお子様を含むすべてのユーザーから、個人情報を一切収集しません</li>
+  <li>お子様を対象とした広告の表示はありません（広告機能そのものがありません）</li>
+  <li>お子様の位置情報、連絡先、識別子などを取得しません</li>
+  <li>外部サービスへの誘導や、アプリ外への誘導は行いません</li>
+</ul>
+<p>保護者の方へ：本アプリはセンサーに反応して画面上のボールが動く、シンプルな物理シミュレーションです。お子様が安心してお使いいただけます。</p>
 
-### 5. 子どものプライバシー
-本アプリは年齢に関係なく安全に使用できます。13歳未満の利用者からも個人情報を一切収集しません。
+<h2>7. データの保存</h2>
+<p>本アプリは設定情報（選択した素材など）を端末内のローカルストレージに保存する場合がありますが、これらは端末内に留まり、外部に送信されることはありません。</p>
 
-### 6. ポリシーの変更
-本ポリシーは必要に応じて更新されることがあります。変更があった場合は本ページの「最終更新日」を改訂します。
+<h2>8. ユーザーの権利</h2>
+<p>本アプリはデータを一切収集しないため、削除要求の対象となるデータは存在しません。アプリをアンインストールすることで、端末内のローカル設定も完全に削除されます。</p>
 
-### 7. お問い合わせ
-本ポリシーに関するご質問は以下までお願いいたします。
-- Email: y.app.dev21@gmail.com
+<h2>9. プライバシーポリシーの変更</h2>
+<p>本ポリシーを変更する場合は、このページを更新します。重要な変更がある場合は、アプリのストア掲載情報でお知らせします。</p>
 
----
+<h2>10. お問い合わせ</h2>
+<p>本プライバシーポリシーに関するご質問、ご意見、またはお子様のプライバシーに関するお問い合わせは、以下の連絡先までご連絡ください：</p>
+<p><strong>メール：</strong> yuichiro.art21@gmail.com</p>
 
-## English
+<h2>11. 管轄</h2>
+<p>本プライバシーポリシーは日本国の法律に準拠します。</p>
 
-### 1. Information We Collect
-The "Ball in a Box" application (the "App") **does not collect, store, or transmit any personal information, usage data, device identifiers, location data, contacts, or any other personal data from its users**.
+<hr>
 
-### 2. Permissions Used
-The App accesses the following device capabilities. These are used solely for in-app physics simulation and are never transmitted off the device.
+<h1 lang="en">Ball in a Box - Privacy Policy (English)</h1>
+<p class="updated">Last updated: April 23, 2026</p>
 
-| Permission / Sensor | Purpose |
-|---|---|
-| Accelerometer / Gyroscope | Detects device tilt and motion to drive the ball physics |
-| Vibration | Haptic feedback on ball collisions |
+<div class="highlight">
+<strong>This app does not collect, store, or transmit any personal information.</strong><br>
+It has no internet connectivity. All processing happens entirely on the device.
+</div>
 
-### 3. Third-Party Services
-The App does not use any third-party services (advertising networks, analytics tools, cloud services, etc.) and does not send or share data with any third party.
+<h2>Information We Collect</h2>
+<p>Ball in a Box collects <strong>no personal data whatsoever</strong>. No user data, usage statistics, location, or identifiers are collected.</p>
 
-### 4. Internet Connectivity
-The App does not perform any network communication. It operates entirely offline.
+<h2>Sensor Data</h2>
+<p>The app uses accelerometer and gyroscope sensors only for real-time ball physics. This data is processed on-device, never stored, never transmitted, and never shared.</p>
 
-### 5. Children's Privacy
-The App is safe for users of all ages. We do not knowingly collect personal information from children under 13 (or the equivalent minimum age in the user's jurisdiction).
+<h2>No Internet Access</h2>
+<p>The app does not request the INTERNET permission and is technically incapable of network communication.</p>
 
-### 6. Changes to This Policy
-This policy may be updated as needed. When it is, the "Last updated" date at the top of this page will be revised.
+<h2>No Third-Party Services</h2>
+<p>No advertising, analytics, crash reporting, or social media SDKs are used.</p>
 
-### 7. Contact
-For any questions regarding this policy:
-- Email: y.app.dev21@gmail.com
+<h2>Children's Privacy (COPPA Compliant)</h2>
+<p>This app is compliant with COPPA and Google Play Families Policy. We do not collect any personal information from anyone, including children under 13. There are no ads, no external links, and no in-app purchases.</p>
+
+<h2>Contact</h2>
+<p>Email: yuichiro.art21@gmail.com</p>
+
+</body>
+</html>
