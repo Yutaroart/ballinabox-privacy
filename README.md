@@ -49,7 +49,7 @@
 
 <h2>10. お問い合わせ</h2>
 <p>本プライバシーポリシーに関するご質問、ご意見、またはお子様のプライバシーに関するお問い合わせは、以下の連絡先までご連絡ください：</p>
-<p><strong>メール：</strong> yuichiro.art21@gmail.com</p>
+<p><strong>メール：</strong> y.app.dev21@gmail.com</p>
 
 <h2>11. 管轄</h2>
 <p>本プライバシーポリシーは日本国の法律に準拠します。</p>
@@ -80,7 +80,7 @@ It has no internet connectivity. All processing happens entirely on the device.
 <p>This app is compliant with COPPA and Google Play Families Policy. We do not collect any personal information from anyone, including children under 13. There are no ads, no external links, and no in-app purchases.</p>
 
 <h2>Contact</h2>
-<p>Email: yuichiro.art21@gmail.com</p>
+<p>Email: y.app.dev21@gmail.com</p>
 
 </body>
 </html>
